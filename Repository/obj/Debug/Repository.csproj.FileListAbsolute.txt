@@ -1,0 +1,6 @@
+c:\users\eleven fifty\source\repos\BetterRPS\Repository\bin\Debug\Repository.dll
+c:\users\eleven fifty\source\repos\BetterRPS\Repository\bin\Debug\Repository.pdb
+c:\users\eleven fifty\source\repos\BetterRPS\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+c:\users\eleven fifty\source\repos\BetterRPS\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+c:\users\eleven fifty\source\repos\BetterRPS\Repository\obj\Debug\Repository.dll
+c:\users\eleven fifty\source\repos\BetterRPS\Repository\obj\Debug\Repository.pdb

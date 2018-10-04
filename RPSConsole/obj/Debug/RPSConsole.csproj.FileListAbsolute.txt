@@ -1,0 +1,10 @@
+c:\users\eleven fifty\source\repos\BetterRPS\RPSConsole\bin\Debug\RPSConsole.exe.config
+c:\users\eleven fifty\source\repos\BetterRPS\RPSConsole\bin\Debug\RPSConsole.exe
+c:\users\eleven fifty\source\repos\BetterRPS\RPSConsole\bin\Debug\RPSConsole.pdb
+c:\users\eleven fifty\source\repos\BetterRPS\RPSConsole\bin\Debug\Repository.dll
+c:\users\eleven fifty\source\repos\BetterRPS\RPSConsole\bin\Debug\Repository.pdb
+c:\users\eleven fifty\source\repos\BetterRPS\RPSConsole\obj\Debug\RPSConsole.csprojAssemblyReference.cache
+c:\users\eleven fifty\source\repos\BetterRPS\RPSConsole\obj\Debug\RPSConsole.csproj.CoreCompileInputs.cache
+c:\users\eleven fifty\source\repos\BetterRPS\RPSConsole\obj\Debug\RPSConsole.csproj.CopyComplete
+c:\users\eleven fifty\source\repos\BetterRPS\RPSConsole\obj\Debug\RPSConsole.exe
+c:\users\eleven fifty\source\repos\BetterRPS\RPSConsole\obj\Debug\RPSConsole.pdb
